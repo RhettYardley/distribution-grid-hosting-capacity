@@ -1,0 +1,11 @@
+Bus,Maximum_PV_kW,Limiting_Constraint
+632,4775,Line Overload
+633,3175,Line Overload
+634,700,Transformer Overload
+645,0,Line Overload
+646,0,Line Overload
+650,7225,Transformer Overload
+652,0,Line Overload
+671,3850,Line Overload
+675,1150,Overvoltage
+692,3075,Line Overload
